@@ -1,0 +1,58 @@
+Copyright (c) Narcea Labs SL
+
+General PHPPPTX license conditions
+
+1.	The customer (Licensee) agrees to be bound by this License Agreement once the purchase process
+of the PHPPPTX license has been completed.
+
+2.	This License Agreement covers the current version package of PHPPPTX and those subsequent to
+which the Licensee has access by paying the annual License Update Service (LUS) or by purchasing a license upgrade.
+
+3.	This license is PERPETUAL for any of the versions that Licensee has been able to download
+from MY PHPPPTX in accordance with the previous point.
+
+4.	This license gives the Licensee the right to install PHPPPTX in ONE server/VPS/container/machine for production use.
+The license is tied to a single and particular domain/project/client specified by the Licensee during the purchase process.
+Therefore, the license CAN NOT be used or moved to a different domain/project/client unless the license transfer process
+specified by the Licensor has been previously complied with.
+
+5.	This license also grants the Licensee the right to install the PHPPPTX library package in localhost,
+private networks and servers/VPS/containers/machines for development and testing purposes but NOT for production.
+
+6.	The Licensee may not redistribute PHPPPTX in its current version or with any modification of the
+source code introduced by the Licensee.
+
+7.	The Licensee CAN NOT redistribute PHPPPTX package as part of other product without the explicit
+permission by writing of the copyright holder (Licensor) of PHPPPTX.
+
+8.	The Licensee will not remove or modify any copyright notice from any of the source files
+included in the PHPPPTX package.
+
+9.	This license CAN NOT be used to generate a software-as-a-service (SaaS), platform-as-a-service (PaaS)
+or any other means or method that exposes the features of PHPPPTX as an online API to be used as third-party service.
+
+10.	The trial package CAN NOT be used in production environments. It can be used only for testing purposes.
+
+11.	The watermarks added by the trial package CAN NOT be removed from the documents.
+
+12.	Once the Licensee has downloaded the purchased license package, it will only be possible to obtain a
+refund of the price paid for the license if the requirements specified in point 10 of the FAQs are met.
+
+Limitation of Liability
+In no event, except for intellectual property claim, shall the copyright holders of PHPPPTX be liable for any damages whatsoever,
+including, but not restricted to, lost revenue or profit or other direct, indirect, special, incidental or consequential damages,
+except to the extent invariable law, if any, provides otherwise.
+
+Limited Warranty
+PHPPPTX warrants that Licensor is owner of the software with authority to license the software to Licensee
+and that the software does not infringe third party intellectual property rights. Licensor agrees to indemnify,
+defend and hold harmless Licensee from any claims either that Licensor does not owns the software or that the
+software infringes a third party's intellectual property.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL NARCEALABS SL OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

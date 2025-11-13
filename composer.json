@@ -1,0 +1,12 @@
+{
+    "name": "getmeelo/phppptx",
+    "description": "PHP library to manipulate PPTX",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PhpPptx\\": "classes/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
